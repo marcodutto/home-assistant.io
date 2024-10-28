@@ -35,5 +35,8 @@ The integration has a fan platform to view and control the ventilation speed, an
 - Alarm
 - Warning
 - Filter Change Timer
+- System State
+- Software Version
+- Configuration Version
 
 {% include integrations/config_flow.md %}
