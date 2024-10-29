@@ -35,5 +35,6 @@ The integration has a fan platform to view and control the ventilation speed, an
 - Alarm
 - Warning
 - Filter Change Timer
+- System state (reports the current operational state: e.g., "Stand-by", "Building protection", "Economy", "Comfort", "Emergency run", "Preparing", "Opening dampers", "Boost", "Cooling heaters", "Closing dampers", "Night Cooling", "Critical alarm", "Fire alarm", ...)
 
 {% include integrations/config_flow.md %}
