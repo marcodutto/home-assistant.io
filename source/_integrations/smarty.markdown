@@ -28,7 +28,7 @@ There is currently support for the following device types within Home Assistant:
 - Sensor
 - Switch
 
-The integration has a fan platform to view and control the ventilation speed, a switch platform to control the Boost state (a state where the fan ar running at maximum speed for limited time) and a sensors platform to read:
+The integration has a fan platform to view and control the ventilation speed, a switch platform to control the Boost state (which temporarily runs the fan at maximum speed), and a sensors platform to read:
 
 - Outdoor air temperature
 - Extract air temperature
