@@ -28,7 +28,7 @@ There is currently support for the following device types within Home Assistant:
 - Fan
 - Sensor
 
-The integration has a fan platform to view and control the ventilation speed, a button platform to reset the filter's timer, and a sensors platform to read the following values:
+The integration has a fan platform to view and control the ventilation speed, a switch platform to control the Boost state (which temporarily increases the fan speed to maximum for 10 minutes before returning to the previous speed), a button platform to reset the filters' timer, and a sensors platform to read:
 
 - Outdoor air temperature
 - Extract air temperature
