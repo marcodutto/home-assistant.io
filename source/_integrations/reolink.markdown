@@ -172,6 +172,7 @@ Depending on the supported features of the camera, select entities are added for
 - HDR* (Off, On, Auto)
 - Chime motion ringtone
 - Chime person ringtone
+- Chime vehicle ringtone
 - Chime visitor ringtone
 - Hub alarm ringtone
 - Hub visitor ringtone
@@ -245,6 +246,7 @@ When the **floodlight** entity is ON always ON, when OFF controlled based on the
 Depending on the supported features of the camera, the following sensor entities are added:
 
 - PTZ pan position
+- PTZ tilt position
 - Wi-Fi signal*
 - CPU usage*
 - HDD/SD storage*
